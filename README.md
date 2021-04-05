@@ -1,6 +1,6 @@
-# 1ELE713_SEM8_Assignm1_Circuits
+# 1ELE713_SEM9_Assignm1_GFS
 
-Lista de exercícios no arquivo 1ELE713-Sem8-Assignm1-ElectronicCircuits-Lista1.pdf neste repositório.
+Lista de exercícios sobre grafos de fluxo de sinal no arquivo 1ELE713-Sem9-Assignm1-GFS-Lista1.pdf neste repositório.
 
 Observações:
 
